@@ -1,0 +1,3827 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        1240,
+        877
+      ],
+      "blocks": [
+        {
+          "bbox": [
+            84,
+            825,
+            1160,
+            838
+          ],
+          "uuid": "3cb060c9-912b-4e8a-9ed3-155598f18102",
+          "text": "TORM ANNUAL REPORT 2019 CONSOLIDATED FINANCIAL STATEMENTS 131",
+          "words": {
+            "word_list": [
+              "TORM",
+              "ANNUAL",
+              "REPORT",
+              "2019",
+              "CONSOLIDATED",
+              "FINANCIAL",
+              "STATEMENTS",
+              "131"
+            ],
+            "bbox_list": [
+              [
+                84,
+                825,
+                110,
+                838
+              ],
+              [
+                117,
+                825,
+                156,
+                838
+              ],
+              [
+                163,
+                825,
+                203,
+                838
+              ],
+              [
+                209,
+                825,
+                236,
+                838
+              ],
+              [
+                899,
+                825,
+                979,
+                838
+              ],
+              [
+                986,
+                825,
+                1046,
+                838
+              ],
+              [
+                1053,
+                825,
+                1120,
+                838
+              ],
+              [
+                1142,
+                825,
+                1157,
+                838
+              ]
+            ]
+          },
+          "order": 1
+        },
+        {
+          "bbox": [
+            84,
+            102,
+            596,
+            165
+          ],
+          "uuid": "540648cc-bba2-4ffa-a7c6-0f81bf3f2bc5",
+          "text": "NOTE 19 \u2013 DERIVATIVE FINANCIAL INSTRUMENTS Please refer to note 21 \u201cFinancial Instruments\u201d for further information on fair value hierarchies.",
+          "words": {
+            "word_list": [
+              "NOTE",
+              "19",
+              "\u2013",
+              "DERIVATIVE",
+              "FINANCIAL",
+              "INSTRUMENTS",
+              "Please",
+              "refer",
+              "to",
+              "note",
+              "21",
+              "\u201cFinancial",
+              "Instruments\u201d",
+              "for",
+              "further",
+              "information",
+              "on",
+              "fair",
+              "value",
+              "hierarchies."
+            ],
+            "bbox_list": [
+              [
+                84,
+                102,
+                114,
+                119
+              ],
+              [
+                122,
+                102,
+                137,
+                119
+              ],
+              [
+                144,
+                102,
+                152,
+                119
+              ],
+              [
+                160,
+                102,
+                236,
+                119
+              ],
+              [
+                244,
+                102,
+                312,
+                119
+              ],
+              [
+                320,
+                102,
+                404,
+                119
+              ],
+              [
+                84,
+                137,
+                115,
+                151
+              ],
+              [
+                120,
+                137,
+                146,
+                151
+              ],
+              [
+                151,
+                137,
+                161,
+                151
+              ],
+              [
+                166,
+                137,
+                187,
+                151
+              ],
+              [
+                192,
+                137,
+                202,
+                151
+              ],
+              [
+                208,
+                137,
+                259,
+                151
+              ],
+              [
+                265,
+                137,
+                327,
+                151
+              ],
+              [
+                332,
+                137,
+                347,
+                151
+              ],
+              [
+                353,
+                137,
+                389,
+                151
+              ],
+              [
+                394,
+                137,
+                451,
+                151
+              ],
+              [
+                456,
+                137,
+                466,
+                151
+              ],
+              [
+                471,
+                137,
+                492,
+                151
+              ],
+              [
+                497,
+                137,
+                523,
+                151
+              ],
+              [
+                528,
+                137,
+                590,
+                151
+              ]
+            ]
+          },
+          "order": 2
+        },
+        {
+          "bbox": [
+            84,
+            170,
+            600,
+            184
+          ],
+          "uuid": "d5b607c5-087f-4316-9a23-4bcf7534d425",
+          "text": "USDm 2019 2018",
+          "words": {
+            "word_list": [
+              "USDm",
+              "2019",
+              "2018"
+            ],
+            "bbox_list": [
+              [
+                84,
+                170,
+                114,
+                184
+              ],
+              [
+                504,
+                170,
+                528,
+                184
+              ],
+              [
+                571,
+                170,
+                594,
+                184
+              ]
+            ]
+          },
+          "order": 3
+        },
+        {
+          "bbox": [
+            84,
+            191,
+            549,
+            205
+          ],
+          "uuid": "66768cf9-1f46-44c6-8ed5-71ba49bfc1e3",
+          "text": "Fair value of derivatives:",
+          "words": {
+            "word_list": [
+              "Fair",
+              "value",
+              "of",
+              "derivatives:"
+            ],
+            "bbox_list": [
+              [
+                84,
+                191,
+                105,
+                205
+              ],
+              [
+                110,
+                191,
+                136,
+                205
+              ],
+              [
+                141,
+                191,
+                152,
+                205
+              ],
+              [
+                157,
+                191,
+                220,
+                205
+              ]
+            ]
+          },
+          "order": 4
+        },
+        {
+          "bbox": [
+            84,
+            211,
+            549,
+            224
+          ],
+          "uuid": "afd44244-dd65-46bd-b019-ed7f088ae1d2",
+          "text": "Derivative financial instruments regarding freight and bunkers:",
+          "words": {
+            "word_list": [
+              "Derivative",
+              "financial",
+              "instruments",
+              "regarding",
+              "freight",
+              "and",
+              "bunkers:"
+            ],
+            "bbox_list": [
+              [
+                84,
+                211,
+                137,
+                224
+              ],
+              [
+                142,
+                211,
+                190,
+                224
+              ],
+              [
+                196,
+                211,
+                254,
+                224
+              ],
+              [
+                260,
+                211,
+                308,
+                224
+              ],
+              [
+                313,
+                211,
+                350,
+                224
+              ],
+              [
+                356,
+                211,
+                372,
+                224
+              ],
+              [
+                377,
+                211,
+                420,
+                224
+              ]
+            ]
+          },
+          "order": 5
+        },
+        {
+          "bbox": [
+            84,
+            230,
+            604,
+            243
+          ],
+          "uuid": "ea0c8a46-fb35-4e59-b1c7-0a01ebbb5d88",
+          "text": "Forward freight agreements -0.3 0.5",
+          "words": {
+            "word_list": [
+              "Forward",
+              "freight",
+              "agreements",
+              "-0.3",
+              "0.5"
+            ],
+            "bbox_list": [
+              [
+                84,
+                230,
+                124,
+                243
+              ],
+              [
+                130,
+                230,
+                171,
+                243
+              ],
+              [
+                176,
+                230,
+                235,
+                243
+              ],
+              [
+                510,
+                230,
+                528,
+                243
+              ],
+              [
+                580,
+                230,
+                594,
+                243
+              ]
+            ]
+          },
+          "order": 6
+        },
+        {
+          "bbox": [
+            84,
+            249,
+            604,
+            262
+          ],
+          "uuid": "680f4c67-0ae5-403c-817a-fad5f35b356f",
+          "text": "Bunker swaps - -1.2",
+          "words": {
+            "word_list": [
+              "Bunker",
+              "swaps",
+              "-",
+              "-1.2"
+            ],
+            "bbox_list": [
+              [
+                84,
+                249,
+                120,
+                262
+              ],
+              [
+                126,
+                249,
+                157,
+                262
+              ],
+              [
+                526,
+                249,
+                529,
+                262
+              ],
+              [
+                578,
+                249,
+                595,
+                262
+              ]
+            ]
+          },
+          "order": 7
+        },
+        {
+          "bbox": [
+            84,
+            276,
+            433,
+            289
+          ],
+          "uuid": "4fdaa8f3-e17a-4084-bb91-60acfdfe09e0",
+          "text": "Derivative financial instruments regarding interest and currency",
+          "words": {
+            "word_list": [
+              "Derivative",
+              "financial",
+              "instruments",
+              "regarding",
+              "interest",
+              "and",
+              "currency"
+            ],
+            "bbox_list": [
+              [
+                84,
+                276,
+                137,
+                289
+              ],
+              [
+                143,
+                276,
+                191,
+                289
+              ],
+              [
+                197,
+                276,
+                256,
+                289
+              ],
+              [
+                261,
+                276,
+                310,
+                289
+              ],
+              [
+                315,
+                276,
+                358,
+                289
+              ],
+              [
+                363,
+                276,
+                380,
+                289
+              ],
+              [
+                385,
+                276,
+                428,
+                289
+              ]
+            ]
+          },
+          "order": 8
+        },
+        {
+          "bbox": [
+            93,
+            295,
+            607,
+            308
+          ],
+          "uuid": "1a4c5413-1f77-4eb4-a839-e16f9e9a241b",
+          "text": "exchange rate:",
+          "words": {
+            "word_list": [
+              "exchange",
+              "rate:"
+            ],
+            "bbox_list": [
+              [
+                93,
+                295,
+                136,
+                308
+              ],
+              [
+                142,
+                295,
+                169,
+                308
+              ]
+            ]
+          },
+          "order": 9
+        },
+        {
+          "bbox": [
+            84,
+            314,
+            604,
+            327
+          ],
+          "uuid": "ab57814d-caa2-450d-8a46-c8ff0223a4e6",
+          "text": "Forward exchange contracts -0.4 -1.8",
+          "words": {
+            "word_list": [
+              "Forward",
+              "exchange",
+              "contracts",
+              "-0.4",
+              "-1.8"
+            ],
+            "bbox_list": [
+              [
+                84,
+                314,
+                125,
+                327
+              ],
+              [
+                131,
+                314,
+                179,
+                327
+              ],
+              [
+                185,
+                314,
+                238,
+                327
+              ],
+              [
+                510,
+                314,
+                528,
+                327
+              ],
+              [
+                578,
+                314,
+                595,
+                327
+              ]
+            ]
+          },
+          "order": 10
+        },
+        {
+          "bbox": [
+            84,
+            333,
+            604,
+            346
+          ],
+          "uuid": "dff7d840-02fb-4a7f-98bb-1a1744746ae8",
+          "text": "Interest rate swaps -11.1 2.8",
+          "words": {
+            "word_list": [
+              "Interest",
+              "rate",
+              "swaps",
+              "-11.1",
+              "2.8"
+            ],
+            "bbox_list": [
+              [
+                84,
+                333,
+                126,
+                346
+              ],
+              [
+                132,
+                333,
+                153,
+                346
+              ],
+              [
+                158,
+                333,
+                185,
+                346
+              ],
+              [
+                504,
+                333,
+                527,
+                346
+              ],
+              [
+                580,
+                333,
+                594,
+                346
+              ]
+            ]
+          },
+          "order": 11
+        },
+        {
+          "bbox": [
+            84,
+            352,
+            604,
+            367
+          ],
+          "uuid": "691158cf-beaa-498d-af71-36be907102e0",
+          "text": "Fair value of derivatives as of 31 December -11.8 0.3",
+          "words": {
+            "word_list": [
+              "Fair",
+              "value",
+              "of",
+              "derivatives",
+              "as",
+              "of",
+              "31",
+              "December",
+              "-11.8",
+              "0.3"
+            ],
+            "bbox_list": [
+              [
+                84,
+                352,
+                105,
+                367
+              ],
+              [
+                111,
+                352,
+                138,
+                367
+              ],
+              [
+                144,
+                352,
+                155,
+                367
+              ],
+              [
+                160,
+                352,
+                220,
+                367
+              ],
+              [
+                226,
+                352,
+                237,
+                367
+              ],
+              [
+                242,
+                352,
+                253,
+                367
+              ],
+              [
+                258,
+                352,
+                269,
+                367
+              ],
+              [
+                275,
+                352,
+                319,
+                367
+              ],
+              [
+                503,
+                352,
+                527,
+                367
+              ],
+              [
+                580,
+                352,
+                594,
+                367
+              ]
+            ]
+          },
+          "order": 12
+        },
+        {
+          "bbox": [
+            84,
+            378,
+            545,
+            429
+          ],
+          "uuid": "954dc345-23c6-4bc6-8132-49f610508e21",
+          "text": "Derivative financial instruments are presented as below on the balance sheet:",
+          "words": {
+            "word_list": [
+              "Derivative",
+              "financial",
+              "instruments",
+              "are",
+              "presented",
+              "as",
+              "below",
+              "on",
+              "the",
+              "balance",
+              "sheet:"
+            ],
+            "bbox_list": [
+              [
+                84,
+                393,
+                138,
+                406
+              ],
+              [
+                143,
+                393,
+                192,
+                406
+              ],
+              [
+                198,
+                393,
+                257,
+                406
+              ],
+              [
+                263,
+                393,
+                279,
+                406
+              ],
+              [
+                284,
+                393,
+                333,
+                406
+              ],
+              [
+                339,
+                393,
+                350,
+                406
+              ],
+              [
+                355,
+                393,
+                382,
+                406
+              ],
+              [
+                388,
+                393,
+                398,
+                406
+              ],
+              [
+                404,
+                393,
+                420,
+                406
+              ],
+              [
+                426,
+                393,
+                464,
+                406
+              ],
+              [
+                469,
+                393,
+                502,
+                406
+              ]
+            ]
+          },
+          "order": 13
+        },
+        {
+          "bbox": [
+            84,
+            452,
+            121,
+            466
+          ],
+          "uuid": "62cf8eea-bfd1-4cd9-ac86-71d6e19d65bd",
+          "text": "USDm",
+          "words": {
+            "word_list": [
+              "USDm"
+            ],
+            "bbox_list": [
+              [
+                84,
+                452,
+                114,
+                466
+              ]
+            ]
+          },
+          "order": 14
+        },
+        {
+          "bbox": [
+            480,
+            433,
+            534,
+            447
+          ],
+          "uuid": "ff37968b-7d9f-4ed7-9a49-967475087ad0",
+          "text": "Financial",
+          "words": {
+            "word_list": [
+              "Financial"
+            ],
+            "bbox_list": [
+              [
+                480,
+                433,
+                528,
+                447
+              ]
+            ]
+          },
+          "order": 15
+        },
+        {
+          "bbox": [
+            496,
+            452,
+            534,
+            466
+          ],
+          "uuid": "c0f72c8d-4e28-4fcc-8ef1-bd10939100de",
+          "text": "assets",
+          "words": {
+            "word_list": [
+              "assets"
+            ],
+            "bbox_list": [
+              [
+                496,
+                452,
+                528,
+                466
+              ]
+            ]
+          },
+          "order": 16
+        },
+        {
+          "bbox": [
+            547,
+            433,
+            600,
+            447
+          ],
+          "uuid": "2f9a8f5c-7024-4252-9adc-92774888ba4e",
+          "text": "Financial",
+          "words": {
+            "word_list": [
+              "Financial"
+            ],
+            "bbox_list": [
+              [
+                547,
+                433,
+                595,
+                447
+              ]
+            ]
+          },
+          "order": 17
+        },
+        {
+          "bbox": [
+            546,
+            452,
+            600,
+            466
+          ],
+          "uuid": "db0237fc-67bd-45e0-9da0-a4a954020f50",
+          "text": "liabilities",
+          "words": {
+            "word_list": [
+              "liabilities"
+            ],
+            "bbox_list": [
+              [
+                546,
+                452,
+                596,
+                466
+              ]
+            ]
+          },
+          "order": 18
+        },
+        {
+          "bbox": [
+            84,
+            473,
+            607,
+            488
+          ],
+          "uuid": "d8fc3779-a351-45d3-9efe-7ec663832c4d",
+          "text": "2019",
+          "words": {
+            "word_list": [
+              "2019"
+            ],
+            "bbox_list": [
+              [
+                84,
+                473,
+                107,
+                488
+              ]
+            ]
+          },
+          "order": 19
+        },
+        {
+          "bbox": [
+            84,
+            493,
+            545,
+            508
+          ],
+          "uuid": "dc919a23-7dce-4418-bc40-1eeccbc88c96",
+          "text": "Offsetting financial assets and financial liabilities:",
+          "words": {
+            "word_list": [
+              "Offsetting",
+              "financial",
+              "assets",
+              "and",
+              "financial",
+              "liabilities:"
+            ],
+            "bbox_list": [
+              [
+                84,
+                493,
+                132,
+                506
+              ],
+              [
+                137,
+                493,
+                181,
+                506
+              ],
+              [
+                186,
+                493,
+                215,
+                506
+              ],
+              [
+                220,
+                493,
+                235,
+                506
+              ],
+              [
+                240,
+                493,
+                283,
+                506
+              ],
+              [
+                288,
+                493,
+                347,
+                506
+              ]
+            ]
+          },
+          "order": 20
+        },
+        {
+          "bbox": [
+            84,
+            512,
+            604,
+            525
+          ],
+          "uuid": "46ebcb71-78a3-474d-a25f-b6d23690a872",
+          "text": "Gross amount 0.7 -12.5",
+          "words": {
+            "word_list": [
+              "Gross",
+              "amount",
+              "0.7",
+              "-12.5"
+            ],
+            "bbox_list": [
+              [
+                84,
+                512,
+                114,
+                525
+              ],
+              [
+                120,
+                512,
+                157,
+                525
+              ],
+              [
+                514,
+                512,
+                529,
+                525
+              ],
+              [
+                572,
+                512,
+                595,
+                525
+              ]
+            ]
+          },
+          "order": 21
+        },
+        {
+          "bbox": [
+            84,
+            531,
+            604,
+            544
+          ],
+          "uuid": "8a4e4ae7-40df-432e-87ba-151a26c4df68",
+          "text": "Offsetting amount -0.2 0.2",
+          "words": {
+            "word_list": [
+              "Offsetting",
+              "amount",
+              "-0.2",
+              "0.2"
+            ],
+            "bbox_list": [
+              [
+                84,
+                531,
+                141,
+                544
+              ],
+              [
+                147,
+                531,
+                181,
+                544
+              ],
+              [
+                511,
+                531,
+                528,
+                544
+              ],
+              [
+                580,
+                531,
+                594,
+                544
+              ]
+            ]
+          },
+          "order": 22
+        },
+        {
+          "bbox": [
+            84,
+            551,
+            604,
+            565
+          ],
+          "uuid": "be966abe-b690-49c5-af5c-164d47f18bee",
+          "text": "Net amount presented on the balance sheet 0.5 -12.3",
+          "words": {
+            "word_list": [
+              "Net",
+              "amount",
+              "presented",
+              "on",
+              "the",
+              "balance",
+              "sheet",
+              "0.5",
+              "-12.3"
+            ],
+            "bbox_list": [
+              [
+                84,
+                551,
+                101,
+                565
+              ],
+              [
+                107,
+                551,
+                142,
+                565
+              ],
+              [
+                147,
+                551,
+                200,
+                565
+              ],
+              [
+                205,
+                551,
+                217,
+                565
+              ],
+              [
+                223,
+                551,
+                240,
+                565
+              ],
+              [
+                246,
+                551,
+                287,
+                565
+              ],
+              [
+                292,
+                551,
+                321,
+                565
+              ],
+              [
+                514,
+                551,
+                528,
+                565
+              ],
+              [
+                572,
+                551,
+                595,
+                565
+              ]
+            ]
+          },
+          "order": 23
+        },
+        {
+          "bbox": [
+            84,
+            606,
+            121,
+            620
+          ],
+          "uuid": "57ba11ea-22cb-42eb-bfd4-0f67263775be",
+          "text": "USDm",
+          "words": {
+            "word_list": [
+              "USDm"
+            ],
+            "bbox_list": [
+              [
+                84,
+                606,
+                114,
+                620
+              ]
+            ]
+          },
+          "order": 24
+        },
+        {
+          "bbox": [
+            480,
+            587,
+            534,
+            601
+          ],
+          "uuid": "e20db0ed-52c9-4e97-9464-84cb53ee1bb3",
+          "text": "Financial",
+          "words": {
+            "word_list": [
+              "Financial"
+            ],
+            "bbox_list": [
+              [
+                480,
+                587,
+                528,
+                601
+              ]
+            ]
+          },
+          "order": 25
+        },
+        {
+          "bbox": [
+            496,
+            606,
+            534,
+            620
+          ],
+          "uuid": "e5e8462d-1427-480a-b713-a8919ab56ac2",
+          "text": "assets",
+          "words": {
+            "word_list": [
+              "assets"
+            ],
+            "bbox_list": [
+              [
+                496,
+                606,
+                528,
+                620
+              ]
+            ]
+          },
+          "order": 26
+        },
+        {
+          "bbox": [
+            547,
+            587,
+            600,
+            601
+          ],
+          "uuid": "c1fb5f2d-fe38-452f-9ff0-34994085d21c",
+          "text": "Financial",
+          "words": {
+            "word_list": [
+              "Financial"
+            ],
+            "bbox_list": [
+              [
+                547,
+                587,
+                595,
+                601
+              ]
+            ]
+          },
+          "order": 27
+        },
+        {
+          "bbox": [
+            546,
+            606,
+            600,
+            620
+          ],
+          "uuid": "b609e7a7-14a2-42b0-bd60-1e20b0996692",
+          "text": "liabilities",
+          "words": {
+            "word_list": [
+              "liabilities"
+            ],
+            "bbox_list": [
+              [
+                546,
+                606,
+                596,
+                620
+              ]
+            ]
+          },
+          "order": 28
+        },
+        {
+          "bbox": [
+            84,
+            627,
+            607,
+            641
+          ],
+          "uuid": "a98383fb-4b0e-46d8-8123-50d60e06ee56",
+          "text": "2018",
+          "words": {
+            "word_list": [
+              "2018"
+            ],
+            "bbox_list": [
+              [
+                84,
+                627,
+                107,
+                641
+              ]
+            ]
+          },
+          "order": 29
+        },
+        {
+          "bbox": [
+            84,
+            647,
+            545,
+            662
+          ],
+          "uuid": "b2de05f1-e5e6-4498-b4bc-0425405d192a",
+          "text": "Offsetting financial assets and financial liabilities:",
+          "words": {
+            "word_list": [
+              "Offsetting",
+              "financial",
+              "assets",
+              "and",
+              "financial",
+              "liabilities:"
+            ],
+            "bbox_list": [
+              [
+                84,
+                647,
+                132,
+                660
+              ],
+              [
+                137,
+                647,
+                181,
+                660
+              ],
+              [
+                186,
+                647,
+                215,
+                660
+              ],
+              [
+                220,
+                647,
+                235,
+                660
+              ],
+              [
+                240,
+                647,
+                283,
+                660
+              ],
+              [
+                288,
+                647,
+                347,
+                660
+              ]
+            ]
+          },
+          "order": 30
+        },
+        {
+          "bbox": [
+            84,
+            666,
+            604,
+            679
+          ],
+          "uuid": "b9f96c4a-78b7-476b-8a75-60fd3ab0d09d",
+          "text": "Gross amount 7.1 -6.8",
+          "words": {
+            "word_list": [
+              "Gross",
+              "amount",
+              "7.1",
+              "-6.8"
+            ],
+            "bbox_list": [
+              [
+                84,
+                666,
+                114,
+                679
+              ],
+              [
+                120,
+                666,
+                157,
+                679
+              ],
+              [
+                515,
+                666,
+                528,
+                679
+              ],
+              [
+                577,
+                666,
+                595,
+                679
+              ]
+            ]
+          },
+          "order": 31
+        },
+        {
+          "bbox": [
+            84,
+            685,
+            604,
+            698
+          ],
+          "uuid": "be90bf13-d845-4503-8e8f-29df05191585",
+          "text": "Offsetting amount -3.4 3.4",
+          "words": {
+            "word_list": [
+              "Offsetting",
+              "amount",
+              "-3.4",
+              "3.4"
+            ],
+            "bbox_list": [
+              [
+                84,
+                685,
+                141,
+                698
+              ],
+              [
+                147,
+                685,
+                181,
+                698
+              ],
+              [
+                510,
+                685,
+                528,
+                698
+              ],
+              [
+                580,
+                685,
+                594,
+                698
+              ]
+            ]
+          },
+          "order": 32
+        },
+        {
+          "bbox": [
+            84,
+            705,
+            604,
+            719
+          ],
+          "uuid": "6d32f280-a89a-40ad-bb8c-57e8e0ee21d9",
+          "text": "Net amount presented on the balance sheet 3.7 -3.4",
+          "words": {
+            "word_list": [
+              "Net",
+              "amount",
+              "presented",
+              "on",
+              "the",
+              "balance",
+              "sheet",
+              "3.7",
+              "-3.4"
+            ],
+            "bbox_list": [
+              [
+                84,
+                705,
+                101,
+                719
+              ],
+              [
+                107,
+                705,
+                142,
+                719
+              ],
+              [
+                147,
+                705,
+                200,
+                719
+              ],
+              [
+                205,
+                705,
+                217,
+                719
+              ],
+              [
+                223,
+                705,
+                240,
+                719
+              ],
+              [
+                246,
+                705,
+                287,
+                719
+              ],
+              [
+                292,
+                705,
+                321,
+                719
+              ],
+              [
+                514,
+                705,
+                528,
+                719
+              ],
+              [
+                577,
+                705,
+                595,
+                719
+              ]
+            ]
+          },
+          "order": 33
+        },
+        {
+          "bbox": [
+            630,
+            102,
+            1156,
+            280
+          ],
+          "uuid": "b82bcd2c-7dbd-453a-b739-4dd33a513e1f",
+          "text": "NOTE 19 \u2013 continued Hedging of risks with derivative financial instruments are made with a ratio of 1:1. Sources of ineffectiveness are mainly derived from differences in timing and credit risk adjustments. Any ineffective portions of the cash flow hedges are recognized in the income statement as financial items. Value adjustments of the effective part of cash flow hedges are recognized directly in comprehensive income. Gains and losses on cash flow hedges are upon realization transferred from the equity hedging reserve into the income statement. TORM held at year end 2019 and 2018 the following derivative financial instruments designated as hedge accounting:",
+          "words": {
+            "word_list": [
+              "NOTE",
+              "19",
+              "\u2013",
+              "continued",
+              "Hedging",
+              "of",
+              "risks",
+              "with",
+              "derivative",
+              "financial",
+              "instruments",
+              "are",
+              "made",
+              "with",
+              "a",
+              "ratio",
+              "of",
+              "1:1.",
+              "Sources",
+              "of",
+              "ineffectiveness",
+              "are",
+              "mainly",
+              "derived",
+              "from",
+              "differences",
+              "in",
+              "timing",
+              "and",
+              "credit",
+              "risk",
+              "adjustments.",
+              "Any",
+              "ineffective",
+              "portions",
+              "of",
+              "the",
+              "cash",
+              "flow",
+              "hedges",
+              "are",
+              "recognized",
+              "in",
+              "the",
+              "income",
+              "statement",
+              "as",
+              "financial",
+              "items.",
+              "Value",
+              "adjustments",
+              "of",
+              "the",
+              "effective",
+              "part",
+              "of",
+              "cash",
+              "flow",
+              "hedges",
+              "are",
+              "recognized",
+              "directly",
+              "in",
+              "comprehensive",
+              "income.",
+              "Gains",
+              "and",
+              "losses",
+              "on",
+              "cash",
+              "flow",
+              "hedges",
+              "are",
+              "upon",
+              "realization",
+              "transferred",
+              "from",
+              "the",
+              "equity",
+              "hedging",
+              "reserve",
+              "into",
+              "the",
+              "income",
+              "statement.",
+              "TORM",
+              "held",
+              "at",
+              "year",
+              "end",
+              "2019",
+              "and",
+              "2018",
+              "the",
+              "following",
+              "derivative",
+              "financial",
+              "instruments",
+              "designated",
+              "as",
+              "hedge",
+              "accounting:"
+            ],
+            "bbox_list": [
+              [
+                630,
+                102,
+                661,
+                119
+              ],
+              [
+                669,
+                102,
+                685,
+                119
+              ],
+              [
+                691,
+                102,
+                697,
+                119
+              ],
+              [
+                703,
+                102,
+                758,
+                119
+              ],
+              [
+                630,
+                134,
+                667,
+                147
+              ],
+              [
+                672,
+                134,
+                683,
+                147
+              ],
+              [
+                688,
+                134,
+                714,
+                147
+              ],
+              [
+                719,
+                134,
+                740,
+                147
+              ],
+              [
+                745,
+                134,
+                798,
+                147
+              ],
+              [
+                803,
+                134,
+                850,
+                147
+              ],
+              [
+                855,
+                134,
+                913,
+                147
+              ],
+              [
+                918,
+                134,
+                934,
+                147
+              ],
+              [
+                939,
+                134,
+                960,
+                147
+              ],
+              [
+                965,
+                134,
+                986,
+                147
+              ],
+              [
+                991,
+                134,
+                996,
+                147
+              ],
+              [
+                1002,
+                134,
+                1028,
+                147
+              ],
+              [
+                1033,
+                134,
+                1043,
+                147
+              ],
+              [
+                1049,
+                134,
+                1069,
+                147
+              ],
+              [
+                1075,
+                134,
+                1111,
+                147
+              ],
+              [
+                1117,
+                134,
+                1127,
+                147
+              ],
+              [
+                630,
+                148,
+                711,
+                162
+              ],
+              [
+                716,
+                148,
+                732,
+                162
+              ],
+              [
+                738,
+                148,
+                770,
+                162
+              ],
+              [
+                775,
+                148,
+                813,
+                162
+              ],
+              [
+                818,
+                148,
+                840,
+                162
+              ],
+              [
+                845,
+                148,
+                904,
+                162
+              ],
+              [
+                910,
+                148,
+                920,
+                162
+              ],
+              [
+                926,
+                148,
+                958,
+                162
+              ],
+              [
+                963,
+                148,
+                980,
+                162
+              ],
+              [
+                985,
+                148,
+                1017,
+                162
+              ],
+              [
+                1023,
+                148,
+                1044,
+                162
+              ],
+              [
+                1049,
+                148,
+                1114,
+                162
+              ],
+              [
+                1119,
+                148,
+                1135,
+                162
+              ],
+              [
+                630,
+                163,
+                690,
+                176
+              ],
+              [
+                695,
+                163,
+                739,
+                176
+              ],
+              [
+                744,
+                163,
+                755,
+                176
+              ],
+              [
+                760,
+                163,
+                777,
+                176
+              ],
+              [
+                782,
+                163,
+                804,
+                176
+              ],
+              [
+                809,
+                163,
+                831,
+                176
+              ],
+              [
+                836,
+                163,
+                869,
+                176
+              ],
+              [
+                874,
+                163,
+                890,
+                176
+              ],
+              [
+                896,
+                163,
+                950,
+                176
+              ],
+              [
+                955,
+                163,
+                966,
+                176
+              ],
+              [
+                972,
+                163,
+                988,
+                176
+              ],
+              [
+                993,
+                163,
+                1026,
+                176
+              ],
+              [
+                1031,
+                163,
+                1080,
+                176
+              ],
+              [
+                1085,
+                163,
+                1096,
+                176
+              ],
+              [
+                1102,
+                163,
+                1150,
+                176
+              ],
+              [
+                630,
+                178,
+                663,
+                191
+              ],
+              [
+                668,
+                178,
+                695,
+                191
+              ],
+              [
+                700,
+                178,
+                759,
+                191
+              ],
+              [
+                765,
+                178,
+                775,
+                191
+              ],
+              [
+                781,
+                178,
+                797,
+                191
+              ],
+              [
+                802,
+                178,
+                851,
+                191
+              ],
+              [
+                856,
+                178,
+                878,
+                191
+              ],
+              [
+                883,
+                178,
+                894,
+                191
+              ],
+              [
+                899,
+                178,
+                921,
+                191
+              ],
+              [
+                926,
+                178,
+                947,
+                191
+              ],
+              [
+                953,
+                178,
+                985,
+                191
+              ],
+              [
+                990,
+                178,
+                1007,
+                191
+              ],
+              [
+                1012,
+                178,
+                1066,
+                191
+              ],
+              [
+                1071,
+                178,
+                1114,
+                191
+              ],
+              [
+                1119,
+                178,
+                1130,
+                191
+              ],
+              [
+                630,
+                192,
+                703,
+                206
+              ],
+              [
+                709,
+                192,
+                748,
+                206
+              ],
+              [
+                754,
+                192,
+                782,
+                206
+              ],
+              [
+                787,
+                192,
+                804,
+                206
+              ],
+              [
+                810,
+                192,
+                843,
+                206
+              ],
+              [
+                849,
+                192,
+                860,
+                206
+              ],
+              [
+                866,
+                192,
+                888,
+                206
+              ],
+              [
+                894,
+                192,
+                916,
+                206
+              ],
+              [
+                922,
+                192,
+                955,
+                206
+              ],
+              [
+                961,
+                192,
+                978,
+                206
+              ],
+              [
+                983,
+                192,
+                1006,
+                206
+              ],
+              [
+                1011,
+                192,
+                1073,
+                206
+              ],
+              [
+                1079,
+                192,
+                1140,
+                206
+              ],
+              [
+                630,
+                207,
+                652,
+                221
+              ],
+              [
+                658,
+                207,
+                675,
+                221
+              ],
+              [
+                680,
+                207,
+                713,
+                221
+              ],
+              [
+                719,
+                207,
+                758,
+                221
+              ],
+              [
+                763,
+                207,
+                802,
+                221
+              ],
+              [
+                807,
+                207,
+                830,
+                221
+              ],
+              [
+                835,
+                207,
+                852,
+                221
+              ],
+              [
+                857,
+                207,
+                890,
+                221
+              ],
+              [
+                896,
+                207,
+                951,
+                221
+              ],
+              [
+                630,
+                237,
+                652,
+                250
+              ],
+              [
+                658,
+                237,
+                680,
+                250
+              ],
+              [
+                686,
+                237,
+                697,
+                250
+              ],
+              [
+                702,
+                237,
+                724,
+                250
+              ],
+              [
+                730,
+                237,
+                747,
+                250
+              ],
+              [
+                752,
+                237,
+                774,
+                250
+              ],
+              [
+                780,
+                237,
+                796,
+                250
+              ],
+              [
+                802,
+                237,
+                824,
+                250
+              ],
+              [
+                830,
+                237,
+                846,
+                250
+              ],
+              [
+                852,
+                237,
+                902,
+                250
+              ],
+              [
+                907,
+                237,
+                962,
+                250
+              ],
+              [
+                968,
+                237,
+                1018,
+                250
+              ],
+              [
+                1023,
+                237,
+                1084,
+                250
+              ],
+              [
+                1090,
+                237,
+                1145,
+                250
+              ],
+              [
+                630,
+                251,
+                642,
+                265
+              ],
+              [
+                647,
+                251,
+                676,
+                265
+              ],
+              [
+                682,
+                251,
+                744,
+                265
+              ]
+            ]
+          },
+          "order": 34
+        },
+        {
+          "bbox": [
+            630,
+            285,
+            1107,
+            300
+          ],
+          "uuid": "217e0e1b-2938-4bee-a9ae-85f8c483280f",
+          "text": "Hedge accounting Expected maturity",
+          "words": {
+            "word_list": [
+              "Hedge",
+              "accounting",
+              "Expected",
+              "maturity"
+            ],
+            "bbox_list": [
+              [
+                630,
+                285,
+                662,
+                300
+              ],
+              [
+                668,
+                285,
+                730,
+                300
+              ],
+              [
+                1000,
+                285,
+                1048,
+                300
+              ],
+              [
+                1054,
+                285,
+                1102,
+                300
+              ]
+            ]
+          },
+          "order": 35
+        },
+        {
+          "bbox": [
+            630,
+            324,
+            660,
+            339
+          ],
+          "uuid": "5097f0dd-db9d-4707-b2d5-07d34e1d1aaa",
+          "text": "2019",
+          "words": {
+            "word_list": [
+              "2019"
+            ],
+            "bbox_list": [
+              [
+                630,
+                324,
+                654,
+                339
+              ]
+            ]
+          },
+          "order": 36
+        },
+        {
+          "bbox": [
+            841,
+            305,
+            893,
+            320
+          ],
+          "uuid": "0bf37f74-9778-4c54-b4d0-347ba3e0dd65",
+          "text": "Notional",
+          "words": {
+            "word_list": [
+              "Notional"
+            ],
+            "bbox_list": [
+              [
+                841,
+                305,
+                887,
+                320
+              ]
+            ]
+          },
+          "order": 37
+        },
+        {
+          "bbox": [
+            859,
+            325,
+            1080,
+            339
+          ],
+          "uuid": "9a0df7d4-46d8-41bf-a42c-ad733b21753f",
+          "text": "value Unit 2020 2021",
+          "words": {
+            "word_list": [
+              "value",
+              "Unit",
+              "2020",
+              "2021"
+            ],
+            "bbox_list": [
+              [
+                859,
+                325,
+                887,
+                339
+              ],
+              [
+                920,
+                325,
+                942,
+                339
+              ],
+              [
+                984,
+                325,
+                1008,
+                339
+              ],
+              [
+                1051,
+                325,
+                1074,
+                339
+              ]
+            ]
+          },
+          "order": 38
+        },
+        {
+          "bbox": [
+            1115,
+            305,
+            1147,
+            320
+          ],
+          "uuid": "0e1d9178-5e50-4cd0-83a7-101b34316147",
+          "text": "After",
+          "words": {
+            "word_list": [
+              "After"
+            ],
+            "bbox_list": [
+              [
+                1115,
+                305,
+                1142,
+                320
+              ]
+            ]
+          },
+          "order": 39
+        },
+        {
+          "bbox": [
+            1117,
+            325,
+            1147,
+            339
+          ],
+          "uuid": "fe1e528a-2234-4fce-946d-838954416926",
+          "text": "2021",
+          "words": {
+            "word_list": [
+              "2021"
+            ],
+            "bbox_list": [
+              [
+                1117,
+                325,
+                1141,
+                339
+              ]
+            ]
+          },
+          "order": 40
+        },
+        {
+          "bbox": [
+            630,
+            345,
+            791,
+            358
+          ],
+          "uuid": "5f39d99e-dda5-4b55-9239-d75206352147",
+          "text": "Forward exchange contracts",
+          "words": {
+            "word_list": [
+              "Forward",
+              "exchange",
+              "contracts"
+            ],
+            "bbox_list": [
+              [
+                630,
+                345,
+                672,
+                358
+              ],
+              [
+                678,
+                345,
+                725,
+                358
+              ],
+              [
+                731,
+                345,
+                785,
+                358
+              ]
+            ]
+          },
+          "order": 41
+        },
+        {
+          "bbox": [
+            640,
+            364,
+            1147,
+            377
+          ],
+          "uuid": "5e2ccb7a-0408-4ea0-8863-79195558591c",
+          "text": "(USD/DKK) \u00b9 \u207e 222.5 DKKm 222.5 - -",
+          "words": {
+            "word_list": [
+              "(USD/DKK)",
+              "\u00b9",
+              "\u207e",
+              "222.5",
+              "DKKm",
+              "222.5",
+              "-",
+              "-"
+            ],
+            "bbox_list": [
+              [
+                640,
+                364,
+                699,
+                377
+              ],
+              [
+                705,
+                364,
+                712,
+                377
+              ],
+              [
+                712,
+                364,
+                715,
+                377
+              ],
+              [
+                859,
+                364,
+                886,
+                377
+              ],
+              [
+                912,
+                364,
+                937,
+                377
+              ],
+              [
+                981,
+                364,
+                1007,
+                377
+              ],
+              [
+                1073,
+                364,
+                1077,
+                377
+              ],
+              [
+                1139,
+                364,
+                1143,
+                377
+              ]
+            ]
+          },
+          "order": 42
+        },
+        {
+          "bbox": [
+            630,
+            383,
+            1151,
+            396
+          ],
+          "uuid": "178cf6b7-2465-4623-b313-978ec79cb2cb",
+          "text": "Interest rate swaps \u00b2 \u207e 597.8 USDm 120.5 239.5 237.8",
+          "words": {
+            "word_list": [
+              "Interest",
+              "rate",
+              "swaps",
+              "\u00b2",
+              "\u207e",
+              "597.8",
+              "USDm",
+              "120.5",
+              "239.5",
+              "237.8"
+            ],
+            "bbox_list": [
+              [
+                630,
+                383,
+                673,
+                396
+              ],
+              [
+                678,
+                383,
+                699,
+                396
+              ],
+              [
+                705,
+                383,
+                731,
+                396
+              ],
+              [
+                737,
+                383,
+                742,
+                396
+              ],
+              [
+                742,
+                383,
+                745,
+                396
+              ],
+              [
+                859,
+                383,
+                886,
+                396
+              ],
+              [
+                912,
+                383,
+                937,
+                396
+              ],
+              [
+                982,
+                383,
+                1007,
+                396
+              ],
+              [
+                1047,
+                383,
+                1073,
+                396
+              ],
+              [
+                1114,
+                383,
+                1140,
+                396
+              ]
+            ]
+          },
+          "order": 43
+        },
+        {
+          "bbox": [
+            630,
+            402,
+            1147,
+            416
+          ],
+          "uuid": "bbf4a279-e705-4339-ad7d-b8e573719144",
+          "text": "Bunker swaps \u00b3 \u207e 4,725 MT 4,725 - -",
+          "words": {
+            "word_list": [
+              "Bunker",
+              "swaps",
+              "\u00b3",
+              "\u207e",
+              "4,725",
+              "MT",
+              "4,725",
+              "-",
+              "-"
+            ],
+            "bbox_list": [
+              [
+                630,
+                402,
+                666,
+                416
+              ],
+              [
+                672,
+                402,
+                702,
+                416
+              ],
+              [
+                708,
+                402,
+                714,
+                416
+              ],
+              [
+                714,
+                402,
+                717,
+                416
+              ],
+              [
+                859,
+                402,
+                886,
+                416
+              ],
+              [
+                929,
+                402,
+                939,
+                416
+              ],
+              [
+                981,
+                402,
+                1007,
+                416
+              ],
+              [
+                1073,
+                402,
+                1077,
+                416
+              ],
+              [
+                1139,
+                402,
+                1143,
+                416
+              ]
+            ]
+          },
+          "order": 44
+        },
+        {
+          "bbox": [
+            630,
+            426,
+            1092,
+            437
+          ],
+          "uuid": "1392f868-a37e-4c0b-b881-eb9122e63c92",
+          "text": "\u00b9 \u207e The average hedge of USD/DKK currency was 6,5.",
+          "words": {
+            "word_list": [
+              "\u00b9",
+              "\u207e",
+              "The",
+              "average",
+              "hedge",
+              "of",
+              "USD/DKK",
+              "currency",
+              "was",
+              "6,5."
+            ],
+            "bbox_list": [
+              [
+                630,
+                426,
+                634,
+                436
+              ],
+              [
+                634,
+                426,
+                636,
+                436
+              ],
+              [
+                641,
+                426,
+                655,
+                436
+              ],
+              [
+                660,
+                426,
+                693,
+                436
+              ],
+              [
+                698,
+                426,
+                722,
+                436
+              ],
+              [
+                726,
+                426,
+                736,
+                436
+              ],
+              [
+                740,
+                426,
+                773,
+                436
+              ],
+              [
+                778,
+                426,
+                816,
+                436
+              ],
+              [
+                821,
+                426,
+                835,
+                436
+              ],
+              [
+                840,
+                426,
+                859,
+                436
+              ]
+            ]
+          },
+          "order": 45
+        },
+        {
+          "bbox": [
+            630,
+            438,
+            1092,
+            449
+          ],
+          "uuid": "97200be4-072d-4330-84e2-844d09103822",
+          "text": "\u00b2 \u207e The average interest rate was 2.33% plus margin.",
+          "words": {
+            "word_list": [
+              "\u00b2",
+              "\u207e",
+              "The",
+              "average",
+              "interest",
+              "rate",
+              "was",
+              "2.33%",
+              "plus",
+              "margin."
+            ],
+            "bbox_list": [
+              [
+                630,
+                438,
+                634,
+                448
+              ],
+              [
+                634,
+                438,
+                636,
+                448
+              ],
+              [
+                641,
+                438,
+                654,
+                448
+              ],
+              [
+                658,
+                438,
+                689,
+                448
+              ],
+              [
+                693,
+                438,
+                728,
+                448
+              ],
+              [
+                732,
+                438,
+                749,
+                448
+              ],
+              [
+                754,
+                438,
+                767,
+                448
+              ],
+              [
+                771,
+                438,
+                793,
+                448
+              ],
+              [
+                797,
+                438,
+                815,
+                448
+              ],
+              [
+                819,
+                438,
+                849,
+                448
+              ]
+            ]
+          },
+          "order": 46
+        },
+        {
+          "bbox": [
+            630,
+            449,
+            1092,
+            461
+          ],
+          "uuid": "0dd7a216-3ec1-4254-8155-151c9fbd0d41",
+          "text": "\u00b2 \u207e The average price of the hedging instruments was USD 652.0.",
+          "words": {
+            "word_list": [
+              "\u00b2",
+              "\u207e",
+              "The",
+              "average",
+              "price",
+              "of",
+              "the",
+              "hedging",
+              "instruments",
+              "was",
+              "USD",
+              "652.0."
+            ],
+            "bbox_list": [
+              [
+                630,
+                449,
+                634,
+                460
+              ],
+              [
+                634,
+                449,
+                636,
+                460
+              ],
+              [
+                641,
+                449,
+                654,
+                460
+              ],
+              [
+                659,
+                449,
+                691,
+                460
+              ],
+              [
+                695,
+                449,
+                718,
+                460
+              ],
+              [
+                722,
+                449,
+                731,
+                460
+              ],
+              [
+                736,
+                449,
+                749,
+                460
+              ],
+              [
+                754,
+                449,
+                785,
+                460
+              ],
+              [
+                790,
+                449,
+                839,
+                460
+              ],
+              [
+                844,
+                449,
+                857,
+                460
+              ],
+              [
+                862,
+                449,
+                876,
+                460
+              ],
+              [
+                880,
+                449,
+                907,
+                460
+              ]
+            ]
+          },
+          "order": 47
+        },
+        {
+          "bbox": [
+            630,
+            495,
+            1107,
+            510
+          ],
+          "uuid": "9524ca0a-317b-4b6e-af71-5ab9c0a8f56c",
+          "text": "Hedge accounting Expected maturity",
+          "words": {
+            "word_list": [
+              "Hedge",
+              "accounting",
+              "Expected",
+              "maturity"
+            ],
+            "bbox_list": [
+              [
+                630,
+                495,
+                662,
+                510
+              ],
+              [
+                668,
+                495,
+                730,
+                510
+              ],
+              [
+                1000,
+                495,
+                1048,
+                510
+              ],
+              [
+                1054,
+                495,
+                1102,
+                510
+              ]
+            ]
+          },
+          "order": 48
+        },
+        {
+          "bbox": [
+            630,
+            534,
+            660,
+            549
+          ],
+          "uuid": "21b2cded-a31e-4353-b2c0-ba7936fecd30",
+          "text": "2018",
+          "words": {
+            "word_list": [
+              "2018"
+            ],
+            "bbox_list": [
+              [
+                630,
+                534,
+                654,
+                549
+              ]
+            ]
+          },
+          "order": 49
+        },
+        {
+          "bbox": [
+            841,
+            515,
+            893,
+            530
+          ],
+          "uuid": "7515973b-b6de-4621-9b7b-15073b7ae49e",
+          "text": "Notional",
+          "words": {
+            "word_list": [
+              "Notional"
+            ],
+            "bbox_list": [
+              [
+                841,
+                515,
+                887,
+                530
+              ]
+            ]
+          },
+          "order": 50
+        },
+        {
+          "bbox": [
+            859,
+            534,
+            1080,
+            549
+          ],
+          "uuid": "f291de28-a720-4ee0-86dc-acee6d939c37",
+          "text": "value Unit 2019 2020",
+          "words": {
+            "word_list": [
+              "value",
+              "Unit",
+              "2019",
+              "2020"
+            ],
+            "bbox_list": [
+              [
+                859,
+                534,
+                887,
+                549
+              ],
+              [
+                920,
+                534,
+                942,
+                549
+              ],
+              [
+                984,
+                534,
+                1008,
+                549
+              ],
+              [
+                1051,
+                534,
+                1074,
+                549
+              ]
+            ]
+          },
+          "order": 51
+        },
+        {
+          "bbox": [
+            1115,
+            515,
+            1147,
+            530
+          ],
+          "uuid": "6bc06022-c3c1-486b-893b-3344e7514ad2",
+          "text": "After",
+          "words": {
+            "word_list": [
+              "After"
+            ],
+            "bbox_list": [
+              [
+                1115,
+                515,
+                1142,
+                530
+              ]
+            ]
+          },
+          "order": 52
+        },
+        {
+          "bbox": [
+            1117,
+            534,
+            1147,
+            549
+          ],
+          "uuid": "49502ae9-bcd3-4207-830f-26da6133fd0c",
+          "text": "2020",
+          "words": {
+            "word_list": [
+              "2020"
+            ],
+            "bbox_list": [
+              [
+                1117,
+                534,
+                1141,
+                549
+              ]
+            ]
+          },
+          "order": 53
+        },
+        {
+          "bbox": [
+            630,
+            555,
+            791,
+            568
+          ],
+          "uuid": "f949fb2b-167a-4af5-947c-5149b806a5ad",
+          "text": "Forward exchange contracts",
+          "words": {
+            "word_list": [
+              "Forward",
+              "exchange",
+              "contracts"
+            ],
+            "bbox_list": [
+              [
+                630,
+                555,
+                672,
+                568
+              ],
+              [
+                678,
+                555,
+                725,
+                568
+              ],
+              [
+                731,
+                555,
+                785,
+                568
+              ]
+            ]
+          },
+          "order": 54
+        },
+        {
+          "bbox": [
+            640,
+            574,
+            1147,
+            587
+          ],
+          "uuid": "bca8b17f-249e-434e-9815-063a566f9d7d",
+          "text": "(USD/DKK) \u00b9 \u207e 250.0 DKKm 250.0 - -",
+          "words": {
+            "word_list": [
+              "(USD/DKK)",
+              "\u00b9",
+              "\u207e",
+              "250.0",
+              "DKKm",
+              "250.0",
+              "-",
+              "-"
+            ],
+            "bbox_list": [
+              [
+                640,
+                574,
+                699,
+                587
+              ],
+              [
+                705,
+                574,
+                712,
+                587
+              ],
+              [
+                712,
+                574,
+                715,
+                587
+              ],
+              [
+                859,
+                574,
+                886,
+                587
+              ],
+              [
+                912,
+                574,
+                937,
+                587
+              ],
+              [
+                981,
+                574,
+                1007,
+                587
+              ],
+              [
+                1073,
+                574,
+                1077,
+                587
+              ],
+              [
+                1139,
+                574,
+                1143,
+                587
+              ]
+            ]
+          },
+          "order": 55
+        },
+        {
+          "bbox": [
+            630,
+            593,
+            1151,
+            606
+          ],
+          "uuid": "94d59c58-ac92-4a31-bbbe-789dd615b504",
+          "text": "Interest rate swaps \u00b2 \u207e 512.8 USDm 46.6 160.9 305.3",
+          "words": {
+            "word_list": [
+              "Interest",
+              "rate",
+              "swaps",
+              "\u00b2",
+              "\u207e",
+              "512.8",
+              "USDm",
+              "46.6",
+              "160.9",
+              "305.3"
+            ],
+            "bbox_list": [
+              [
+                630,
+                593,
+                673,
+                606
+              ],
+              [
+                678,
+                593,
+                699,
+                606
+              ],
+              [
+                705,
+                593,
+                731,
+                606
+              ],
+              [
+                737,
+                593,
+                742,
+                606
+              ],
+              [
+                742,
+                593,
+                745,
+                606
+              ],
+              [
+                861,
+                593,
+                886,
+                606
+              ],
+              [
+                912,
+                593,
+                937,
+                606
+              ],
+              [
+                987,
+                593,
+                1007,
+                606
+              ],
+              [
+                1049,
+                593,
+                1074,
+                606
+              ],
+              [
+                1114,
+                593,
+                1140,
+                606
+              ]
+            ]
+          },
+          "order": 56
+        },
+        {
+          "bbox": [
+            630,
+            612,
+            1147,
+            625
+          ],
+          "uuid": "2da1a40a-cf28-4819-bed1-ccacdcf28db9",
+          "text": "Bunker swaps \u00b3 \u207e 10,400 MT 10,400 - -",
+          "words": {
+            "word_list": [
+              "Bunker",
+              "swaps",
+              "\u00b3",
+              "\u207e",
+              "10,400",
+              "MT",
+              "10,400",
+              "-",
+              "-"
+            ],
+            "bbox_list": [
+              [
+                630,
+                612,
+                666,
+                625
+              ],
+              [
+                672,
+                612,
+                702,
+                625
+              ],
+              [
+                708,
+                612,
+                714,
+                625
+              ],
+              [
+                714,
+                612,
+                717,
+                625
+              ],
+              [
+                855,
+                612,
+                886,
+                625
+              ],
+              [
+                929,
+                612,
+                939,
+                625
+              ],
+              [
+                976,
+                612,
+                1007,
+                625
+              ],
+              [
+                1073,
+                612,
+                1077,
+                625
+              ],
+              [
+                1139,
+                612,
+                1143,
+                625
+              ]
+            ]
+          },
+          "order": 57
+        },
+        {
+          "bbox": [
+            630,
+            636,
+            1092,
+            647
+          ],
+          "uuid": "b8899505-38cb-41b8-8ba3-7471f2f30744",
+          "text": "\u00b9 \u207e The average hedge of USD/DKK currency was 6,5.",
+          "words": {
+            "word_list": [
+              "\u00b9",
+              "\u207e",
+              "The",
+              "average",
+              "hedge",
+              "of",
+              "USD/DKK",
+              "currency",
+              "was",
+              "6,5."
+            ],
+            "bbox_list": [
+              [
+                630,
+                636,
+                634,
+                646
+              ],
+              [
+                634,
+                636,
+                636,
+                646
+              ],
+              [
+                641,
+                636,
+                655,
+                646
+              ],
+              [
+                660,
+                636,
+                693,
+                646
+              ],
+              [
+                698,
+                636,
+                722,
+                646
+              ],
+              [
+                726,
+                636,
+                736,
+                646
+              ],
+              [
+                740,
+                636,
+                773,
+                646
+              ],
+              [
+                778,
+                636,
+                816,
+                646
+              ],
+              [
+                821,
+                636,
+                835,
+                646
+              ],
+              [
+                840,
+                636,
+                859,
+                646
+              ]
+            ]
+          },
+          "order": 58
+        },
+        {
+          "bbox": [
+            630,
+            647,
+            1092,
+            659
+          ],
+          "uuid": "957e8481-92ad-44a7-93f9-d19e4bd9c29b",
+          "text": "\u00b2 \u207e The average interest rate was 2.04% plus margin.",
+          "words": {
+            "word_list": [
+              "\u00b2",
+              "\u207e",
+              "The",
+              "average",
+              "interest",
+              "rate",
+              "was",
+              "2.04%",
+              "plus",
+              "margin."
+            ],
+            "bbox_list": [
+              [
+                630,
+                647,
+                634,
+                658
+              ],
+              [
+                634,
+                647,
+                636,
+                658
+              ],
+              [
+                641,
+                647,
+                654,
+                658
+              ],
+              [
+                658,
+                647,
+                689,
+                658
+              ],
+              [
+                693,
+                647,
+                728,
+                658
+              ],
+              [
+                732,
+                647,
+                749,
+                658
+              ],
+              [
+                754,
+                647,
+                767,
+                658
+              ],
+              [
+                771,
+                647,
+                793,
+                658
+              ],
+              [
+                797,
+                647,
+                815,
+                658
+              ],
+              [
+                819,
+                647,
+                849,
+                658
+              ]
+            ]
+          },
+          "order": 59
+        },
+        {
+          "bbox": [
+            630,
+            659,
+            1092,
+            670
+          ],
+          "uuid": "3f36f02f-bb62-4aee-a39f-77362310df0d",
+          "text": "\u00b3 \u207e The average price of the hedging instruments was USD 413.7.",
+          "words": {
+            "word_list": [
+              "\u00b3",
+              "\u207e",
+              "The",
+              "average",
+              "price",
+              "of",
+              "the",
+              "hedging",
+              "instruments",
+              "was",
+              "USD",
+              "413.7."
+            ],
+            "bbox_list": [
+              [
+                630,
+                659,
+                634,
+                670
+              ],
+              [
+                634,
+                659,
+                636,
+                670
+              ],
+              [
+                641,
+                659,
+                654,
+                670
+              ],
+              [
+                659,
+                659,
+                691,
+                670
+              ],
+              [
+                695,
+                659,
+                718,
+                670
+              ],
+              [
+                722,
+                659,
+                731,
+                670
+              ],
+              [
+                736,
+                659,
+                749,
+                670
+              ],
+              [
+                754,
+                659,
+                785,
+                670
+              ],
+              [
+                790,
+                659,
+                839,
+                670
+              ],
+              [
+                844,
+                659,
+                857,
+                670
+              ],
+              [
+                862,
+                659,
+                876,
+                670
+              ],
+              [
+                880,
+                659,
+                907,
+                670
+              ]
+            ]
+          },
+          "order": 60
+        }
+      ]
+    }
+  ]
+}

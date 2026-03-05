@@ -1,0 +1,2782 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        1240,
+        1754
+      ],
+      "blocks": [
+        {
+          "bbox": [
+            150,
+            72,
+            299,
+            100
+          ],
+          "uuid": "d53c73a4-62f0-4fb2-b812-88c921c4224f",
+          "text": "Table of Contents",
+          "words": {
+            "word_list": [
+              "Table",
+              "of",
+              "Contents"
+            ],
+            "bbox_list": [
+              [
+                150,
+                72,
+                194,
+                100
+              ],
+              [
+                203,
+                72,
+                220,
+                100
+              ],
+              [
+                229,
+                72,
+                299,
+                100
+              ]
+            ]
+          },
+          "order": 1
+        },
+        {
+          "bbox": [
+            600,
+            1652,
+            640,
+            1680
+          ],
+          "uuid": "3d31aba2-c80d-4122-8669-aab71fcd1fe0",
+          "text": "F-54",
+          "words": {
+            "word_list": [
+              "F-54"
+            ],
+            "bbox_list": [
+              [
+                600,
+                1652,
+                640,
+                1680
+              ]
+            ]
+          },
+          "order": 2
+        },
+        {
+          "bbox": [
+            150,
+            147,
+            654,
+            175
+          ],
+          "uuid": "fbae64bf-adf1-4013-8bff-24e249384a38",
+          "text": "Deferred tax assets and liabilities consisted of the following:",
+          "words": {
+            "word_list": [
+              "Deferred",
+              "tax",
+              "assets",
+              "and",
+              "liabilities",
+              "consisted",
+              "of",
+              "the",
+              "following:"
+            ],
+            "bbox_list": [
+              [
+                150,
+                147,
+                214,
+                175
+              ],
+              [
+                222,
+                147,
+                246,
+                175
+              ],
+              [
+                254,
+                147,
+                302,
+                175
+              ],
+              [
+                310,
+                147,
+                334,
+                175
+              ],
+              [
+                342,
+                147,
+                430,
+                175
+              ],
+              [
+                438,
+                147,
+                510,
+                175
+              ],
+              [
+                518,
+                147,
+                534,
+                175
+              ],
+              [
+                542,
+                147,
+                566,
+                175
+              ],
+              [
+                574,
+                147,
+                654,
+                175
+              ]
+            ]
+          },
+          "order": 3
+        },
+        {
+          "bbox": [
+            507,
+            198,
+            827,
+            240
+          ],
+          "uuid": "d1e84b74-836e-4876-a1eb-ebc72edc5d18",
+          "text": "December 31,",
+          "words": {
+            "word_list": [
+              "December",
+              "31,"
+            ],
+            "bbox_list": [
+              [
+                730,
+                198,
+                795,
+                221
+              ],
+              [
+                803,
+                198,
+                827,
+                221
+              ]
+            ]
+          },
+          "order": 4
+        },
+        {
+          "bbox": [
+            762,
+            217,
+            842,
+            240
+          ],
+          "uuid": "9fe45e5e-61c6-4b8a-a330-f36aff7b2fa4",
+          "text": "2019",
+          "words": {
+            "word_list": [
+              "2019"
+            ],
+            "bbox_list": [
+              [
+                762,
+                217,
+                796,
+                240
+              ]
+            ]
+          },
+          "order": 5
+        },
+        {
+          "bbox": [
+            842,
+            198,
+            939,
+            221
+          ],
+          "uuid": "65444614-6a8d-4f52-a12e-d157a94ea7ca",
+          "text": "December 31,",
+          "words": {
+            "word_list": [
+              "December",
+              "31,"
+            ],
+            "bbox_list": [
+              [
+                842,
+                198,
+                907,
+                221
+              ],
+              [
+                915,
+                198,
+                939,
+                221
+              ]
+            ]
+          },
+          "order": 6
+        },
+        {
+          "bbox": [
+            874,
+            217,
+            945,
+            240
+          ],
+          "uuid": "9d2a68e6-71ce-455a-b2ec-b04dae73f0c2",
+          "text": "2018",
+          "words": {
+            "word_list": [
+              "2018"
+            ],
+            "bbox_list": [
+              [
+                874,
+                217,
+                908,
+                240
+              ]
+            ]
+          },
+          "order": 7
+        },
+        {
+          "bbox": [
+            290,
+            237,
+            946,
+            265
+          ],
+          "uuid": "e5282056-a0cc-42f3-88d4-45f383f79a51",
+          "text": "Tax loss carryforwards and investment credits 612 603",
+          "words": {
+            "word_list": [
+              "Tax",
+              "loss",
+              "carryforwards",
+              "and",
+              "investment",
+              "credits",
+              "612",
+              "603"
+            ],
+            "bbox_list": [
+              [
+                290,
+                237,
+                316,
+                265
+              ],
+              [
+                325,
+                237,
+                359,
+                265
+              ],
+              [
+                367,
+                237,
+                478,
+                265
+              ],
+              [
+                487,
+                237,
+                513,
+                265
+              ],
+              [
+                521,
+                237,
+                607,
+                265
+              ],
+              [
+                615,
+                237,
+                675,
+                265
+              ],
+              [
+                796,
+                237,
+                822,
+                265
+              ],
+              [
+                908,
+                237,
+                937,
+                265
+              ]
+            ]
+          },
+          "order": 8
+        },
+        {
+          "bbox": [
+            290,
+            263,
+            948,
+            291
+          ],
+          "uuid": "07d82e68-9397-4ef2-8cc4-b2d1ebc9bcf9",
+          "text": "Less unrecognized tax benefit (21) (20)",
+          "words": {
+            "word_list": [
+              "Less",
+              "unrecognized",
+              "tax",
+              "benefit",
+              "(21)",
+              "(20)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                263,
+                325,
+                291
+              ],
+              [
+                333,
+                263,
+                437,
+                291
+              ],
+              [
+                445,
+                263,
+                471,
+                291
+              ],
+              [
+                480,
+                263,
+                540,
+                291
+              ],
+              [
+                800,
+                263,
+                832,
+                291
+              ],
+              [
+                912,
+                263,
+                948,
+                291
+              ]
+            ]
+          },
+          "order": 9
+        },
+        {
+          "bbox": [
+            290,
+            289,
+            946,
+            341
+          ],
+          "uuid": "0427361a-0d8e-4d85-8844-5f1581f676d4",
+          "text": "Tax loss carryforwards net of unrecognized tax benefit 591 583",
+          "words": {
+            "word_list": [
+              "Tax",
+              "loss",
+              "carryforwards",
+              "net",
+              "of",
+              "unrecognized",
+              "tax",
+              "benefit",
+              "591",
+              "583"
+            ],
+            "bbox_list": [
+              [
+                290,
+                289,
+                316,
+                317
+              ],
+              [
+                325,
+                289,
+                359,
+                317
+              ],
+              [
+                367,
+                289,
+                479,
+                317
+              ],
+              [
+                487,
+                289,
+                513,
+                317
+              ],
+              [
+                521,
+                289,
+                538,
+                317
+              ],
+              [
+                547,
+                289,
+                650,
+                317
+              ],
+              [
+                658,
+                289,
+                684,
+                317
+              ],
+              [
+                312,
+                313,
+                364,
+                341
+              ],
+              [
+                796,
+                313,
+                822,
+                341
+              ],
+              [
+                908,
+                313,
+                937,
+                341
+              ]
+            ]
+          },
+          "order": 10
+        },
+        {
+          "bbox": [
+            290,
+            338,
+            946,
+            366
+          ],
+          "uuid": "015f04e4-dbfd-47d9-8375-840168b3585c",
+          "text": "Inventory valuation 28 28",
+          "words": {
+            "word_list": [
+              "Inventory",
+              "valuation",
+              "28",
+              "28"
+            ],
+            "bbox_list": [
+              [
+                290,
+                338,
+                368,
+                366
+              ],
+              [
+                377,
+                338,
+                454,
+                366
+              ],
+              [
+                807,
+                338,
+                823,
+                366
+              ],
+              [
+                919,
+                338,
+                937,
+                366
+              ]
+            ]
+          },
+          "order": 11
+        },
+        {
+          "bbox": [
+            290,
+            364,
+            946,
+            392
+          ],
+          "uuid": "07044ff0-4e34-4e2f-8773-ec9cdfb4cb79",
+          "text": "Impairment and restructuring charges 6 14",
+          "words": {
+            "word_list": [
+              "Impairment",
+              "and",
+              "restructuring",
+              "charges",
+              "6",
+              "14"
+            ],
+            "bbox_list": [
+              [
+                290,
+                364,
+                377,
+                392
+              ],
+              [
+                386,
+                364,
+                412,
+                392
+              ],
+              [
+                421,
+                364,
+                534,
+                392
+              ],
+              [
+                542,
+                364,
+                603,
+                392
+              ],
+              [
+                817,
+                364,
+                825,
+                392
+              ],
+              [
+                919,
+                364,
+                937,
+                392
+              ]
+            ]
+          },
+          "order": 12
+        },
+        {
+          "bbox": [
+            290,
+            389,
+            946,
+            417
+          ],
+          "uuid": "78d80dbb-2a95-412a-9140-4baf61009e6c",
+          "text": "Fixed asset depreciation in arrears 39 35",
+          "words": {
+            "word_list": [
+              "Fixed",
+              "asset",
+              "depreciation",
+              "in",
+              "arrears",
+              "39",
+              "35"
+            ],
+            "bbox_list": [
+              [
+                290,
+                389,
+                331,
+                417
+              ],
+              [
+                339,
+                389,
+                380,
+                417
+              ],
+              [
+                388,
+                389,
+                486,
+                417
+              ],
+              [
+                494,
+                389,
+                510,
+                417
+              ],
+              [
+                518,
+                389,
+                575,
+                417
+              ],
+              [
+                807,
+                389,
+                823,
+                417
+              ],
+              [
+                919,
+                389,
+                937,
+                417
+              ]
+            ]
+          },
+          "order": 13
+        },
+        {
+          "bbox": [
+            290,
+            415,
+            946,
+            443
+          ],
+          "uuid": "f6bf7087-a410-4752-bedd-5d3ce3052ddd",
+          "text": "Increased depreciation incentives 213 211",
+          "words": {
+            "word_list": [
+              "Increased",
+              "depreciation",
+              "incentives",
+              "213",
+              "211"
+            ],
+            "bbox_list": [
+              [
+                290,
+                415,
+                366,
+                443
+              ],
+              [
+                375,
+                415,
+                475,
+                443
+              ],
+              [
+                484,
+                415,
+                568,
+                443
+              ],
+              [
+                796,
+                415,
+                822,
+                443
+              ],
+              [
+                908,
+                415,
+                937,
+                443
+              ]
+            ]
+          },
+          "order": 14
+        },
+        {
+          "bbox": [
+            290,
+            440,
+            946,
+            468
+          ],
+          "uuid": "95c09157-d377-4862-95d7-35d9a81bb4b5",
+          "text": "Capitalized development costs 118 108",
+          "words": {
+            "word_list": [
+              "Capitalized",
+              "development",
+              "costs",
+              "118",
+              "108"
+            ],
+            "bbox_list": [
+              [
+                290,
+                440,
+                387,
+                468
+              ],
+              [
+                396,
+                440,
+                492,
+                468
+              ],
+              [
+                501,
+                440,
+                545,
+                468
+              ],
+              [
+                796,
+                440,
+                822,
+                468
+              ],
+              [
+                908,
+                440,
+                937,
+                468
+              ]
+            ]
+          },
+          "order": 15
+        },
+        {
+          "bbox": [
+            290,
+            466,
+            946,
+            494
+          ],
+          "uuid": "74ff5e83-15de-4dbc-b034-34bde66b5519",
+          "text": "Receivables for government funding 14 11",
+          "words": {
+            "word_list": [
+              "Receivables",
+              "for",
+              "government",
+              "funding",
+              "14",
+              "11"
+            ],
+            "bbox_list": [
+              [
+                290,
+                466,
+                389,
+                494
+              ],
+              [
+                398,
+                466,
+                425,
+                494
+              ],
+              [
+                434,
+                466,
+                524,
+                494
+              ],
+              [
+                532,
+                466,
+                595,
+                494
+              ],
+              [
+                807,
+                466,
+                823,
+                494
+              ],
+              [
+                919,
+                466,
+                937,
+                494
+              ]
+            ]
+          },
+          "order": 16
+        },
+        {
+          "bbox": [
+            290,
+            491,
+            946,
+            519
+          ],
+          "uuid": "8d99d3bf-e07c-4faf-967c-1c2747a3b07b",
+          "text": "Tax credits granted on past capital investments 1,151 1,155",
+          "words": {
+            "word_list": [
+              "Tax",
+              "credits",
+              "granted",
+              "on",
+              "past",
+              "capital",
+              "investments",
+              "1,151",
+              "1,155"
+            ],
+            "bbox_list": [
+              [
+                290,
+                491,
+                315,
+                519
+              ],
+              [
+                324,
+                491,
+                382,
+                519
+              ],
+              [
+                390,
+                491,
+                449,
+                519
+              ],
+              [
+                457,
+                491,
+                473,
+                519
+              ],
+              [
+                482,
+                491,
+                515,
+                519
+              ],
+              [
+                523,
+                491,
+                582,
+                519
+              ],
+              [
+                590,
+                491,
+                681,
+                519
+              ],
+              [
+                781,
+                491,
+                822,
+                519
+              ],
+              [
+                893,
+                491,
+                937,
+                519
+              ]
+            ]
+          },
+          "order": 17
+        },
+        {
+          "bbox": [
+            290,
+            517,
+            946,
+            545
+          ],
+          "uuid": "e0428a0b-76d3-4a90-ba04-9e7d15097818",
+          "text": "Pension service costs 81 65",
+          "words": {
+            "word_list": [
+              "Pension",
+              "service",
+              "costs",
+              "81",
+              "65"
+            ],
+            "bbox_list": [
+              [
+                290,
+                517,
+                349,
+                545
+              ],
+              [
+                358,
+                517,
+                417,
+                545
+              ],
+              [
+                425,
+                517,
+                467,
+                545
+              ],
+              [
+                807,
+                517,
+                823,
+                545
+              ],
+              [
+                919,
+                517,
+                937,
+                545
+              ]
+            ]
+          },
+          "order": 18
+        },
+        {
+          "bbox": [
+            290,
+            542,
+            946,
+            570
+          ],
+          "uuid": "f3851716-6733-46a9-8470-fa30ab71d5e1",
+          "text": "Stock awards 6 7",
+          "words": {
+            "word_list": [
+              "Stock",
+              "awards",
+              "6",
+              "7"
+            ],
+            "bbox_list": [
+              [
+                290,
+                542,
+                337,
+                570
+              ],
+              [
+                346,
+                542,
+                402,
+                570
+              ],
+              [
+                817,
+                542,
+                825,
+                570
+              ],
+              [
+                929,
+                542,
+                938,
+                570
+              ]
+            ]
+          },
+          "order": 19
+        },
+        {
+          "bbox": [
+            290,
+            568,
+            946,
+            596
+          ],
+          "uuid": "f7f08f04-4764-480a-ab20-f772e75839fa",
+          "text": "Operating lease liabilities 40 \u2014",
+          "words": {
+            "word_list": [
+              "Operating",
+              "lease",
+              "liabilities",
+              "40",
+              "\u2014"
+            ],
+            "bbox_list": [
+              [
+                290,
+                568,
+                361,
+                596
+              ],
+              [
+                369,
+                568,
+                409,
+                596
+              ],
+              [
+                417,
+                568,
+                503,
+                596
+              ],
+              [
+                807,
+                568,
+                823,
+                596
+              ],
+              [
+                919,
+                568,
+                932,
+                596
+              ]
+            ]
+          },
+          "order": 20
+        },
+        {
+          "bbox": [
+            290,
+            593,
+            946,
+            621
+          ],
+          "uuid": "41658258-c064-4ad7-b390-02fc6041fae3",
+          "text": "Commercial accruals 15 12",
+          "words": {
+            "word_list": [
+              "Commercial",
+              "accruals",
+              "15",
+              "12"
+            ],
+            "bbox_list": [
+              [
+                290,
+                593,
+                383,
+                621
+              ],
+              [
+                393,
+                593,
+                467,
+                621
+              ],
+              [
+                807,
+                593,
+                823,
+                621
+              ],
+              [
+                919,
+                593,
+                937,
+                621
+              ]
+            ]
+          },
+          "order": 21
+        },
+        {
+          "bbox": [
+            290,
+            619,
+            946,
+            647
+          ],
+          "uuid": "989ce212-76ab-4707-ae13-88d8e94fd7bb",
+          "text": "Other temporary differences 22 26",
+          "words": {
+            "word_list": [
+              "Other",
+              "temporary",
+              "differences",
+              "22",
+              "26"
+            ],
+            "bbox_list": [
+              [
+                290,
+                619,
+                334,
+                647
+              ],
+              [
+                343,
+                619,
+                422,
+                647
+              ],
+              [
+                430,
+                619,
+                526,
+                647
+              ],
+              [
+                807,
+                619,
+                823,
+                647
+              ],
+              [
+                919,
+                619,
+                937,
+                647
+              ]
+            ]
+          },
+          "order": 22
+        },
+        {
+          "bbox": [
+            290,
+            645,
+            946,
+            674
+          ],
+          "uuid": "1a0d87eb-58d9-4f52-a183-a5d8d6215d1c",
+          "text": "Total deferred tax assets 2,324 2,255",
+          "words": {
+            "word_list": [
+              "Total",
+              "deferred",
+              "tax",
+              "assets",
+              "2,324",
+              "2,255"
+            ],
+            "bbox_list": [
+              [
+                290,
+                645,
+                334,
+                674
+              ],
+              [
+                343,
+                645,
+                413,
+                674
+              ],
+              [
+                421,
+                645,
+                447,
+                674
+              ],
+              [
+                456,
+                645,
+                509,
+                674
+              ],
+              [
+                781,
+                645,
+                822,
+                674
+              ],
+              [
+                893,
+                645,
+                937,
+                674
+              ]
+            ]
+          },
+          "order": 23
+        },
+        {
+          "bbox": [
+            290,
+            671,
+            948,
+            698
+          ],
+          "uuid": "ccfef860-32d7-4203-973b-3aabdb1816cc",
+          "text": "Valuation allowances (1,534) (1,548)",
+          "words": {
+            "word_list": [
+              "Valuation",
+              "allowances",
+              "(1,534)",
+              "(1,548)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                671,
+                371,
+                698
+              ],
+              [
+                380,
+                671,
+                470,
+                698
+              ],
+              [
+                774,
+                671,
+                831,
+                698
+              ],
+              [
+                886,
+                671,
+                948,
+                698
+              ]
+            ]
+          },
+          "order": 24
+        },
+        {
+          "bbox": [
+            290,
+            697,
+            946,
+            726
+          ],
+          "uuid": "766a2cbf-f9cb-4537-8f2a-e92a42c56419",
+          "text": "Deferred tax assets, net 790 707",
+          "words": {
+            "word_list": [
+              "Deferred",
+              "tax",
+              "assets,",
+              "net",
+              "790",
+              "707"
+            ],
+            "bbox_list": [
+              [
+                290,
+                697,
+                359,
+                726
+              ],
+              [
+                368,
+                697,
+                394,
+                726
+              ],
+              [
+                403,
+                697,
+                463,
+                726
+              ],
+              [
+                472,
+                697,
+                497,
+                726
+              ],
+              [
+                796,
+                697,
+                822,
+                726
+              ],
+              [
+                908,
+                697,
+                937,
+                726
+              ]
+            ]
+          },
+          "order": 25
+        },
+        {
+          "bbox": [
+            290,
+            722,
+            948,
+            750
+          ],
+          "uuid": "e403f8bc-2e5b-4038-986b-e5d5a3a5c32a",
+          "text": "Accelerated fixed asset depreciation (20) (16)",
+          "words": {
+            "word_list": [
+              "Accelerated",
+              "fixed",
+              "asset",
+              "depreciation",
+              "(20)",
+              "(16)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                722,
+                382,
+                750
+              ],
+              [
+                391,
+                722,
+                433,
+                750
+              ],
+              [
+                441,
+                722,
+                483,
+                750
+              ],
+              [
+                491,
+                722,
+                592,
+                750
+              ],
+              [
+                800,
+                722,
+                832,
+                750
+              ],
+              [
+                912,
+                722,
+                948,
+                750
+              ]
+            ]
+          },
+          "order": 26
+        },
+        {
+          "bbox": [
+            290,
+            748,
+            948,
+            775
+          ],
+          "uuid": "6cc3f67c-acb2-495d-ac14-24f03ae040e1",
+          "text": "Acquired intangible assets (16) (13)",
+          "words": {
+            "word_list": [
+              "Acquired",
+              "intangible",
+              "assets",
+              "(16)",
+              "(13)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                748,
+                358,
+                775
+              ],
+              [
+                367,
+                748,
+                451,
+                775
+              ],
+              [
+                460,
+                748,
+                510,
+                775
+              ],
+              [
+                800,
+                748,
+                832,
+                775
+              ],
+              [
+                912,
+                748,
+                948,
+                775
+              ]
+            ]
+          },
+          "order": 27
+        },
+        {
+          "bbox": [
+            290,
+            773,
+            948,
+            801
+          ],
+          "uuid": "11ba3bb1-cd24-4346-a12c-7666556d5ba0",
+          "text": "Advances of government funding (31) (12)",
+          "words": {
+            "word_list": [
+              "Advances",
+              "of",
+              "government",
+              "funding",
+              "(31)",
+              "(12)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                773,
+                365,
+                801
+              ],
+              [
+                374,
+                773,
+                393,
+                801
+              ],
+              [
+                402,
+                773,
+                495,
+                801
+              ],
+              [
+                505,
+                773,
+                570,
+                801
+              ],
+              [
+                800,
+                773,
+                832,
+                801
+              ],
+              [
+                912,
+                773,
+                948,
+                801
+              ]
+            ]
+          },
+          "order": 28
+        },
+        {
+          "bbox": [
+            290,
+            799,
+            946,
+            826
+          ],
+          "uuid": "75741e25-3634-4c67-8a71-bc8af0a0a63f",
+          "text": "Operating lease right-of-use assets (40) \u2014",
+          "words": {
+            "word_list": [
+              "Operating",
+              "lease",
+              "right-of-use",
+              "assets",
+              "(40)",
+              "\u2014"
+            ],
+            "bbox_list": [
+              [
+                290,
+                799,
+                364,
+                826
+              ],
+              [
+                373,
+                799,
+                414,
+                826
+              ],
+              [
+                422,
+                799,
+                520,
+                826
+              ],
+              [
+                529,
+                799,
+                578,
+                826
+              ],
+              [
+                800,
+                799,
+                832,
+                826
+              ],
+              [
+                919,
+                799,
+                932,
+                826
+              ]
+            ]
+          },
+          "order": 29
+        },
+        {
+          "bbox": [
+            290,
+            824,
+            948,
+            852
+          ],
+          "uuid": "1d3b0580-7720-47a3-aae8-ac422f08d220",
+          "text": "Other temporary differences (7) (7)",
+          "words": {
+            "word_list": [
+              "Other",
+              "temporary",
+              "differences",
+              "(7)",
+              "(7)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                824,
+                334,
+                852
+              ],
+              [
+                343,
+                824,
+                422,
+                852
+              ],
+              [
+                430,
+                824,
+                526,
+                852
+              ],
+              [
+                810,
+                824,
+                833,
+                852
+              ],
+              [
+                922,
+                824,
+                948,
+                852
+              ]
+            ]
+          },
+          "order": 30
+        },
+        {
+          "bbox": [
+            290,
+            850,
+            948,
+            879
+          ],
+          "uuid": "fc035bfb-6645-4a2c-963b-d2c1966eb33e",
+          "text": "Deferred tax liabilities (114) (48)",
+          "words": {
+            "word_list": [
+              "Deferred",
+              "tax",
+              "liabilities",
+              "(114)",
+              "(48)"
+            ],
+            "bbox_list": [
+              [
+                290,
+                850,
+                357,
+                879
+              ],
+              [
+                365,
+                850,
+                390,
+                879
+              ],
+              [
+                398,
+                850,
+                489,
+                879
+              ],
+              [
+                789,
+                850,
+                831,
+                879
+              ],
+              [
+                912,
+                850,
+                948,
+                879
+              ]
+            ]
+          },
+          "order": 31
+        },
+        {
+          "bbox": [
+            290,
+            881,
+            942,
+            909
+          ],
+          "uuid": "0b38bd1a-db43-4b20-bcb6-785dc9d9d102",
+          "text": "Net deferred income tax asset 676 659",
+          "words": {
+            "word_list": [
+              "Net",
+              "deferred",
+              "income",
+              "tax",
+              "asset",
+              "676",
+              "659"
+            ],
+            "bbox_list": [
+              [
+                290,
+                881,
+                318,
+                909
+              ],
+              [
+                327,
+                881,
+                399,
+                909
+              ],
+              [
+                408,
+                881,
+                462,
+                909
+              ],
+              [
+                472,
+                881,
+                499,
+                909
+              ],
+              [
+                508,
+                881,
+                553,
+                909
+              ],
+              [
+                796,
+                881,
+                822,
+                909
+              ],
+              [
+                908,
+                881,
+                939,
+                909
+              ]
+            ]
+          },
+          "order": 32
+        },
+        {
+          "bbox": [
+            150,
+            936,
+            1090,
+            1030
+          ],
+          "uuid": "38e2a7b6-ed7b-4ed7-a15c-cb3458a237a4",
+          "text": "For a particular tax-paying component of the Company and within a particular tax jurisdiction, all current deferred tax liabilities and assets are offset and presented as a single amount, similarly to non-current deferred tax liabilities and assets. The Company does not offset deferred tax liabilities and assets attributable to different tax-paying components or to different tax jurisdictions.",
+          "words": {
+            "word_list": [
+              "For",
+              "a",
+              "particular",
+              "tax-paying",
+              "component",
+              "of",
+              "the",
+              "Company",
+              "and",
+              "within",
+              "a",
+              "particular",
+              "tax",
+              "jurisdiction,",
+              "all",
+              "current",
+              "deferred",
+              "tax",
+              "liabilities",
+              "and",
+              "assets",
+              "are",
+              "offset",
+              "and",
+              "presented",
+              "as",
+              "a",
+              "single",
+              "amount,",
+              "similarly",
+              "to",
+              "non-current",
+              "deferred",
+              "tax",
+              "liabilities",
+              "and",
+              "assets.",
+              "The",
+              "Company",
+              "does",
+              "not",
+              "offset",
+              "deferred",
+              "tax",
+              "liabilities",
+              "and",
+              "assets",
+              "attributable",
+              "to",
+              "different",
+              "tax-paying",
+              "components",
+              "or",
+              "to",
+              "different",
+              "tax",
+              "jurisdictions."
+            ],
+            "bbox_list": [
+              [
+                150,
+                936,
+                175,
+                963
+              ],
+              [
+                183,
+                936,
+                191,
+                963
+              ],
+              [
+                200,
+                936,
+                282,
+                963
+              ],
+              [
+                290,
+                936,
+                373,
+                963
+              ],
+              [
+                381,
+                936,
+                456,
+                963
+              ],
+              [
+                464,
+                936,
+                481,
+                963
+              ],
+              [
+                489,
+                936,
+                514,
+                963
+              ],
+              [
+                522,
+                936,
+                580,
+                963
+              ],
+              [
+                588,
+                936,
+                613,
+                963
+              ],
+              [
+                621,
+                936,
+                671,
+                963
+              ],
+              [
+                679,
+                936,
+                687,
+                963
+              ],
+              [
+                695,
+                936,
+                778,
+                963
+              ],
+              [
+                786,
+                936,
+                811,
+                963
+              ],
+              [
+                819,
+                936,
+                927,
+                963
+              ],
+              [
+                935,
+                936,
+                960,
+                963
+              ],
+              [
+                968,
+                936,
+                1026,
+                963
+              ],
+              [
+                150,
+                958,
+                214,
+                985
+              ],
+              [
+                222,
+                958,
+                246,
+                985
+              ],
+              [
+                254,
+                958,
+                343,
+                985
+              ],
+              [
+                351,
+                958,
+                375,
+                985
+              ],
+              [
+                383,
+                958,
+                431,
+                985
+              ],
+              [
+                439,
+                958,
+                463,
+                985
+              ],
+              [
+                471,
+                958,
+                519,
+                985
+              ],
+              [
+                527,
+                958,
+                551,
+                985
+              ],
+              [
+                559,
+                958,
+                632,
+                985
+              ],
+              [
+                640,
+                958,
+                656,
+                985
+              ],
+              [
+                664,
+                958,
+                672,
+                985
+              ],
+              [
+                680,
+                958,
+                728,
+                985
+              ],
+              [
+                736,
+                958,
+                792,
+                985
+              ],
+              [
+                800,
+                958,
+                872,
+                985
+              ],
+              [
+                880,
+                958,
+                896,
+                985
+              ],
+              [
+                904,
+                958,
+                993,
+                985
+              ],
+              [
+                1001,
+                958,
+                1065,
+                985
+              ],
+              [
+                150,
+                980,
+                174,
+                1007
+              ],
+              [
+                182,
+                980,
+                268,
+                1007
+              ],
+              [
+                276,
+                980,
+                300,
+                1007
+              ],
+              [
+                308,
+                980,
+                363,
+                1007
+              ],
+              [
+                379,
+                980,
+                403,
+                1007
+              ],
+              [
+                411,
+                980,
+                466,
+                1007
+              ],
+              [
+                474,
+                980,
+                505,
+                1007
+              ],
+              [
+                513,
+                980,
+                537,
+                1007
+              ],
+              [
+                545,
+                980,
+                592,
+                1007
+              ],
+              [
+                600,
+                980,
+                663,
+                1007
+              ],
+              [
+                671,
+                980,
+                695,
+                1007
+              ],
+              [
+                703,
+                980,
+                790,
+                1007
+              ],
+              [
+                798,
+                980,
+                821,
+                1007
+              ],
+              [
+                829,
+                980,
+                877,
+                1007
+              ],
+              [
+                884,
+                980,
+                979,
+                1007
+              ],
+              [
+                987,
+                980,
+                1003,
+                1007
+              ],
+              [
+                1011,
+                980,
+                1082,
+                1007
+              ],
+              [
+                150,
+                1002,
+                232,
+                1030
+              ],
+              [
+                240,
+                1002,
+                322,
+                1030
+              ],
+              [
+                331,
+                1002,
+                347,
+                1030
+              ],
+              [
+                355,
+                1002,
+                372,
+                1030
+              ],
+              [
+                380,
+                1002,
+                454,
+                1030
+              ],
+              [
+                462,
+                1002,
+                487,
+                1030
+              ],
+              [
+                495,
+                1002,
+                610,
+                1030
+              ]
+            ]
+          },
+          "order": 33
+        },
+        {
+          "bbox": [
+            150,
+            1049,
+            1094,
+            1099
+          ],
+          "uuid": "afd5c546-e5fc-4b95-9470-439750097069",
+          "text": "The net deferred tax assets are recorded in legal entities which have been historically profitable and are expected to be profitable in the next coming years.",
+          "words": {
+            "word_list": [
+              "The",
+              "net",
+              "deferred",
+              "tax",
+              "assets",
+              "are",
+              "recorded",
+              "in",
+              "legal",
+              "entities",
+              "which",
+              "have",
+              "been",
+              "historically",
+              "profitable",
+              "and",
+              "are",
+              "expected",
+              "to",
+              "be",
+              "profitable",
+              "in",
+              "the",
+              "next",
+              "coming",
+              "years."
+            ],
+            "bbox_list": [
+              [
+                150,
+                1049,
+                174,
+                1077
+              ],
+              [
+                183,
+                1049,
+                207,
+                1077
+              ],
+              [
+                215,
+                1049,
+                280,
+                1077
+              ],
+              [
+                288,
+                1049,
+                313,
+                1077
+              ],
+              [
+                321,
+                1049,
+                370,
+                1077
+              ],
+              [
+                378,
+                1049,
+                402,
+                1077
+              ],
+              [
+                410,
+                1049,
+                475,
+                1077
+              ],
+              [
+                484,
+                1049,
+                500,
+                1077
+              ],
+              [
+                508,
+                1049,
+                549,
+                1077
+              ],
+              [
+                557,
+                1049,
+                622,
+                1077
+              ],
+              [
+                630,
+                1049,
+                671,
+                1077
+              ],
+              [
+                679,
+                1049,
+                711,
+                1077
+              ],
+              [
+                719,
+                1049,
+                752,
+                1077
+              ],
+              [
+                760,
+                1049,
+                858,
+                1077
+              ],
+              [
+                866,
+                1049,
+                947,
+                1077
+              ],
+              [
+                955,
+                1049,
+                980,
+                1077
+              ],
+              [
+                988,
+                1049,
+                1012,
+                1077
+              ],
+              [
+                1021,
+                1049,
+                1086,
+                1077
+              ],
+              [
+                150,
+                1071,
+                166,
+                1099
+              ],
+              [
+                174,
+                1071,
+                191,
+                1099
+              ],
+              [
+                199,
+                1071,
+                280,
+                1099
+              ],
+              [
+                289,
+                1071,
+                305,
+                1099
+              ],
+              [
+                313,
+                1071,
+                337,
+                1099
+              ],
+              [
+                346,
+                1071,
+                378,
+                1099
+              ],
+              [
+                386,
+                1071,
+                435,
+                1099
+              ],
+              [
+                443,
+                1071,
+                492,
+                1099
+              ]
+            ]
+          },
+          "order": 34
+        },
+        {
+          "bbox": [
+            150,
+            1118,
+            1003,
+            1168
+          ],
+          "uuid": "aa3a5a76-58ef-4bff-9faf-0b8d77dd855b",
+          "text": "As of December 31, 2019, the Company and its subsidiaries have gross deferred tax assets on tax loss carryforwards and investment credits that expire starting 2020, as follows :",
+          "words": {
+            "word_list": [
+              "As",
+              "of",
+              "December",
+              "31,",
+              "2019,",
+              "the",
+              "Company",
+              "and",
+              "its",
+              "subsidiaries",
+              "have",
+              "gross",
+              "deferred",
+              "tax",
+              "assets",
+              "on",
+              "tax",
+              "loss",
+              "carryforwards",
+              "and",
+              "investment",
+              "credits",
+              "that",
+              "expire",
+              "starting",
+              "2020,",
+              "as",
+              "follows",
+              ":"
+            ],
+            "bbox_list": [
+              [
+                150,
+                1118,
+                167,
+                1146
+              ],
+              [
+                175,
+                1118,
+                192,
+                1146
+              ],
+              [
+                201,
+                1118,
+                268,
+                1146
+              ],
+              [
+                277,
+                1118,
+                302,
+                1146
+              ],
+              [
+                310,
+                1118,
+                353,
+                1146
+              ],
+              [
+                361,
+                1118,
+                386,
+                1146
+              ],
+              [
+                395,
+                1118,
+                454,
+                1146
+              ],
+              [
+                462,
+                1118,
+                488,
+                1146
+              ],
+              [
+                496,
+                1118,
+                521,
+                1146
+              ],
+              [
+                530,
+                1118,
+                631,
+                1146
+              ],
+              [
+                640,
+                1118,
+                673,
+                1146
+              ],
+              [
+                682,
+                1118,
+                724,
+                1146
+              ],
+              [
+                732,
+                1118,
+                800,
+                1146
+              ],
+              [
+                808,
+                1118,
+                834,
+                1146
+              ],
+              [
+                842,
+                1118,
+                893,
+                1146
+              ],
+              [
+                901,
+                1118,
+                918,
+                1146
+              ],
+              [
+                927,
+                1118,
+                952,
+                1146
+              ],
+              [
+                960,
+                1118,
+                994,
+                1146
+              ],
+              [
+                150,
+                1140,
+                258,
+                1168
+              ],
+              [
+                266,
+                1140,
+                291,
+                1168
+              ],
+              [
+                299,
+                1140,
+                382,
+                1168
+              ],
+              [
+                390,
+                1140,
+                448,
+                1168
+              ],
+              [
+                457,
+                1140,
+                490,
+                1168
+              ],
+              [
+                498,
+                1140,
+                548,
+                1168
+              ],
+              [
+                556,
+                1140,
+                622,
+                1168
+              ],
+              [
+                630,
+                1140,
+                672,
+                1168
+              ],
+              [
+                680,
+                1140,
+                697,
+                1168
+              ],
+              [
+                705,
+                1140,
+                763,
+                1168
+              ],
+              [
+                763,
+                1140,
+                769,
+                1168
+              ]
+            ]
+          },
+          "order": 35
+        },
+        {
+          "bbox": [
+            338,
+            1190,
+            901,
+            1213
+          ],
+          "uuid": "5c044c15-caa2-47f5-bd47-7ae120982b7a",
+          "text": "Year",
+          "words": {
+            "word_list": [
+              "Year"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1190,
+                373,
+                1213
+              ]
+            ]
+          },
+          "order": 36
+        },
+        {
+          "bbox": [
+            338,
+            1210,
+            902,
+            1238
+          ],
+          "uuid": "4fec0778-32e2-424f-9e35-1afdb928c85d",
+          "text": "2020 15",
+          "words": {
+            "word_list": [
+              "2020",
+              "15"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1210,
+                379,
+                1238
+              ],
+              [
+                874,
+                1210,
+                893,
+                1238
+              ]
+            ]
+          },
+          "order": 37
+        },
+        {
+          "bbox": [
+            338,
+            1236,
+            902,
+            1264
+          ],
+          "uuid": "ff63cde5-8052-435f-b6ca-fe13a310be25",
+          "text": "2021 3",
+          "words": {
+            "word_list": [
+              "2021",
+              "3"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1236,
+                379,
+                1264
+              ],
+              [
+                885,
+                1236,
+                893,
+                1264
+              ]
+            ]
+          },
+          "order": 38
+        },
+        {
+          "bbox": [
+            338,
+            1261,
+            902,
+            1289
+          ],
+          "uuid": "7e85fa85-fc61-4069-bc51-c67bf5c62fc1",
+          "text": "2022 7",
+          "words": {
+            "word_list": [
+              "2022",
+              "7"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1261,
+                379,
+                1289
+              ],
+              [
+                885,
+                1261,
+                893,
+                1289
+              ]
+            ]
+          },
+          "order": 39
+        },
+        {
+          "bbox": [
+            338,
+            1287,
+            902,
+            1315
+          ],
+          "uuid": "42abe808-4e2f-4a61-94c6-60b1738b4e9d",
+          "text": "2023 4",
+          "words": {
+            "word_list": [
+              "2023",
+              "4"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1287,
+                379,
+                1315
+              ],
+              [
+                885,
+                1287,
+                893,
+                1315
+              ]
+            ]
+          },
+          "order": 40
+        },
+        {
+          "bbox": [
+            338,
+            1312,
+            902,
+            1340
+          ],
+          "uuid": "f145027d-7a17-40c1-b77c-f6e840e81adb",
+          "text": "2024 3",
+          "words": {
+            "word_list": [
+              "2024",
+              "3"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1312,
+                379,
+                1340
+              ],
+              [
+                885,
+                1312,
+                893,
+                1340
+              ]
+            ]
+          },
+          "order": 41
+        },
+        {
+          "bbox": [
+            338,
+            1338,
+            902,
+            1366
+          ],
+          "uuid": "0af53bca-418c-449c-99da-29c8d652b13b",
+          "text": "Thereafter 580",
+          "words": {
+            "word_list": [
+              "Thereafter",
+              "580"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1338,
+                424,
+                1366
+              ],
+              [
+                864,
+                1338,
+                893,
+                1366
+              ]
+            ]
+          },
+          "order": 42
+        },
+        {
+          "bbox": [
+            338,
+            1364,
+            897,
+            1393
+          ],
+          "uuid": "e0c9364b-b0cb-4373-ae75-de8057b34002",
+          "text": "Total 612",
+          "words": {
+            "word_list": [
+              "Total",
+              "612"
+            ],
+            "bbox_list": [
+              [
+                338,
+                1364,
+                385,
+                1393
+              ],
+              [
+                864,
+                1364,
+                895,
+                1393
+              ]
+            ]
+          },
+          "order": 43
+        }
+      ]
+    }
+  ]
+}
